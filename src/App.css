@@ -1,0 +1,165 @@
+/*h4{
+  text-align: right;
+  background-color: orange;
+  border-radius: 3px;
+  line-height: auto;
+  align-self:flex-end;
+  flex-direction: row;
+  float: right;
+}
+
+.chatbot{
+  display: flex;
+  flex-direction:column;
+  background-color:white;
+  width: 50%;
+  
+}
+
+p{
+  background-color:whitesmoke;
+  text-align:left;
+  margin-top: 1%;
+margin-bottom: 1%;
+align-self:flex-start;
+line-height: auto;
+}
+
+
+
+.emoji{
+  display: flex;
+  background-Color:yellow;
+  width: max-content;
+  align-self:flex-start;
+}
+
+button {
+background-color:white;
+border-color: orange;
+margin-left: 1%;
+border-radius: 10px;
+margin-top: 1%;
+margin-bottom: 1%;
+display: none;
+display: flex;
+align-self:flex-start;
+float: left;
+}
+.bg-salmon {
+  background-color: red;
+  color: white;
+}
+
+.text {
+  text-align: right;
+  background-color: orange;
+  border-radius: 3px;
+  line-height: auto;
+  align-self: flex-end;
+  flex-direction: row;
+  float: right;
+}
+
+.chatbot {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 50%;
+
+}
+
+p {
+  background-color: whitesmoke;
+  text-align: left;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  align-self: flex-start;
+  line-height: auto;
+}
+
+
+
+.emoji {
+  display: flex;
+  background-Color: yellow;
+  width: max-content;
+  align-self: flex-start;
+}
+
+.button-success {
+  background-color: white;
+  border-color: orange;
+  margin-left: 1%;
+  border-radius: 10px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: none;
+  display: flex;
+  align-self: flex-start;
+  float: left;
+}
+
+.button-hidden{
+  display: none;
+}
+
+.none {
+ display: none;
+}*/
+.text {
+  text-align: right;
+  background-color: orange;
+  border-radius: 3px;
+  line-height: auto;
+  align-self: flex-end;
+  flex-direction: row;
+  float: right;
+}
+
+.chatbot {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 50%;
+
+}
+
+p {
+  background-color: whitesmoke;
+  text-align: left;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  align-self: flex-start;
+  line-height: auto;
+}
+
+
+
+.emoji {
+  display: flex;
+  background-Color: yellow;
+  width: max-content;
+  align-self: flex-start;
+}
+
+.button {
+  background-color: white;
+  border-color: orange;
+  margin-left: 1%;
+  border-radius: 10px;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: none;
+  display: flex;
+  align-self: flex-start;
+  float: left;
+}
+
+.button-hidden{
+  display: none;
+}
+
+.none {
+ display: none;
+}

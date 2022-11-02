@@ -1,0 +1,39 @@
+{
+    "welcome": {
+      "title": "Hello, I'm Shell virtual assistant and I can help you with the following topics or Input your question in one statement.",
+      "children": [
+        {
+          "title": "General",
+          "value": "general"
+          
+        }
+      ],
+      "general": {
+        "title": "We have few options under \"General\"",
+        "children": [
+          { "title": "How do I become a Shell partner?", "value": "q0.0.1" ,"state":0}
+        ],
+        "q0.0.1": {
+          "title": "For any partnership proposal, you can contact us at: MA-Partenariat@vivoenergy.com. Once your proposal has been studied, we will send you a response as soon as possible.",
+          "children": [
+            {
+              "title": "Yes",
+              "value": "yes"
+            },
+            {
+              "title": "No",
+              "value": "no"
+            }
+          ],
+          "yes": {
+            "title": "Glad to have helped you. Shell virtual assistant is at your service. See you soon.",
+            "children": []
+          },
+          "no": {
+            "title": "For a better asistance we invite you to contact us by going to the contact us section.",
+            "children": []
+          }
+        }
+      }
+    }
+  }
